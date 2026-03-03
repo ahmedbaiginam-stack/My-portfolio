@@ -13,7 +13,7 @@
 
   Fully responsive personal portfolio website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/portfolio/"><strong>➥ Live Demo</strong></a>
+  <a href="https://ahmedbaiginam-stack.github.io/My-portfolio/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -21,7 +21,7 @@
 
 ### Demo Screeshots
 
-![Portfolio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Portfolio Desktop Demo](./assets/images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -36,18 +36,18 @@ To run **Portfolio** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/portfolio.git
+sudo git clone https://ahmedbaiginam-stack.github.io/My-portfolio/
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/portfolio.git
+git clone https://ahmedbaiginam-stack.github.io/My-portfolio/
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [Linkedin](https://www.linkedin.com/in/ahmedbaig-inamdar-678628365).
 
 ### License
 
