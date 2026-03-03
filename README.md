@@ -7,7 +7,7 @@
   <br />
   <br />
 
-  <h2 align="center">AhmedBaig Inamdar- Personal Portfolio</h2>
+  <h2 align="center">Ahmedbaig Inamdar- Personal Portfolio</h2>
 
   Fully responsive personal portfolio website, <br />
   built using HTML, CSS, JavaScript and Java (Servlet/JSP).
