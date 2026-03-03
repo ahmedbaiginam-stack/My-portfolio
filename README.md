@@ -1,19 +1,22 @@
 <div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/portfolio)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/portfolio?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/SAu7e09vXoQ?style=social)](https://youtu.be/SAu7e09vXoQ)
+
+  ![GitHub repo size](https://img.shields.io/github/repo-size/ahmedbaiginam-stack/My-portfolio)
+  ![GitHub stars](https://img.shields.io/github/stars/ahmedbaiginam-stack/My-portfolio?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/ahmedbaiginam-stack/My-portfolio?style=social)
 
   <br />
   <br />
 
-  <h2 align="center">Personal Portfolio Website</h2>
+  <h2 align="center">Ahmed Baig - Personal Portfolio</h2>
 
-  Fully responsive personal portfolio website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+  Fully responsive personal portfolio website, <br />
+  built using HTML, CSS, JavaScript and Java (Servlet/JSP).
 
-  <a href="https://ahmedbaiginam-stack.github.io/My-portfolio/"><strong>➥ Live Demo</strong></a>
+  <br />
+
+  <a href="https://ahmedbaiginam-stack.github.io/My-portfolio/">
+    <strong>➥ Live Demo</strong>
+  </a>
 
 </div>
 
